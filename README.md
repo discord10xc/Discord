@@ -25,5 +25,5 @@ Progress bar assets for Discord bot.
 
 To ensure efficient and accurate processing:
 - Use the `.agents/workflows/image_upload.md` workflow for all upload requests.
-- Ensure the active GitHub account is `discord10xc` before pushing.
+- Ensure the active GitHub account is `discord10ds` before pushing.
 - Always rename files to descriptive English names immediately upon receipt.
